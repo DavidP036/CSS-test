@@ -1,15 +1,40 @@
 h1 {
-    color: chartreuse; font-size: 100px;
+    display: inline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: chartreuse;
+    line-height: 5;
+    font-weight: 100;
+    font-size: 70px;
 }
 .subtitle-h2 {
-    color: blueviolet; font-size: 60px;
+    line-height: 4;
+    font-weight: 400;
+    color: blueviolet;
+    font-size: 60px;
 }
 p {
-    color: chocolate; font-size: 6mm;
+    font-family: 'Times New Roman', Times, serif;
+    color: chocolate;
+    line-height: 2;
+    font-weight: 800;
+    font-size: 6mm;
+}
+.form {
+    font-size: 20px;
+    background-color: darkcyan;
+    width: 60vw;
+    height: 50vh;
 }
 .form__h2 {
-    color:burlywood; font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 2.5;
+    font-weight: 600;
+    color:burlywood;
+    font-size: 5em;
 }
 .form__input {
+    background-color: blue;
+    width: 50vw;
+    height: 30vh;
     color: darkred;
 }
