@@ -1,0 +1,29 @@
+h2, p {
+    background-color: rgb(112, 0, 0);
+    display: inline-block;
+    padding: 80px 90px;
+    margin: 60px 70px;
+    font-weight: 800;
+    font-size: 7mm;
+    text-align: center;
+    border-radius: 30px;
+    border: 1ch inset rgb(250, 159, 250);
+    box-shadow: 9px 9px 9px 9px black;
+    text-shadow: 3px 3px 5px white;
+    transform: rotate(180deg);
+}
+/*p {
+    line-height: 1cm;
+    display: inline-block;
+    background-color: crimson;
+    font-size: larger;
+    font-weight: 200;
+    color: aqua;
+    padding: 10mm;
+    margin: 50px;
+    border-radius: 70px;
+    border: 8mm outset rgb(216, 133, 255);
+    box-shadow: 20px 40px 30px 0px rgb(0, 0, 0);
+    text-shadow: 9px 9px 9px white, 9px 9px 9px white, 9px 9px 9px white, 9px 9px 9px white;
+    transform: rotate(90);
+}*/
